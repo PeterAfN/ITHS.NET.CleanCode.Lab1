@@ -1,4 +1,10 @@
-Laboration 1
+# ITHS.NET.Clean.Lab3
+ 
+Denna lab ingick i kursen "Clean Code och testbar kod  30p" på IT-Högskolan i Göteborg som jag läste hösten/vintern år 2021.
+
+# Uppgiftsbeskrivningen för labb 1:
+
+## Laboration 1
 Denna laboration kommer att täcka grundläggande enhetstestning inklusive mockning.
 Laborationen är uppdelad i två delar och är tänkt att lösas i par. Det går naturligtvis att lösa
 laborationen själv också. För att redovisa laborationen skall bägge deluppgifterna vara lösta.
@@ -17,7 +23,8 @@ regler:
 En “FizzBuzzad” sekvens ser alltså ut som följande: 1, 2, Fizz, 4, Buzz, Fizz, 7, 8, Fizz, Buzz, 11, Fizz, 13, 14,
 FizzBuzz, 16...
 Mer detaljer för den intresserade kan man hitta här: https://en.wikipedia.org/wiki/Fizz_buzz
-Uppgiften
+
+#### Uppgiften
 Skriv passande klass:
 - Sekvensen som ska genereras ska starta på ett och sluta på 100.
 - Klassen som implementerar FizzBuzzen ska returnera en lista av strängar enligt ovan.
@@ -29,10 +36,12 @@ Fizz, Buzz, Fizzbuzz och ett nummer. Tänk execution paths och täck de fallen.
 - Implementerar ni en parametriserad metod så blir det lite extra test och felhantering. Vad
 händer om vi skickar in ett negativt tal? Noll? Returnerar vi samma antal strängar som
 parametervärdet?
-Laboration 1b: Mockning
+
+## Laboration 1b: Mockning
 I denna laboration ska vi pröva på att mocka bort ett externt beroende och ersätta det med en mock
 som ger oss ett känt resultat så vi kan bygga isolerade enhetstester.
-Uppgiften
+
+#### Uppgiften
 Vi ska skriva och enhetstesta en eller flera klasser som löser följande uppgift:
 - En sträng ska läsas in från en textfil med namnet “indata.txt”
 o Är filen tom eller inte finnas så skall passande undantag kastas
