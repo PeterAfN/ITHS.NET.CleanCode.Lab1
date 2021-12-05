@@ -1,4 +1,4 @@
-# ITHS.NET.Clean.Lab3
+# ITHS.NET.CleanCode.Lab1
  
 Denna lab ingick i kursen "Clean Code och testbar kod  30p" på IT-Högskolan i Göteborg som jag läste hösten/vintern år 2021.
 
