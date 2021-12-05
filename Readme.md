@@ -2,7 +2,7 @@
  
 Denna lab ingick i kursen "Clean Code och testbar kod  30p" på IT-Högskolan i Göteborg som jag läste hösten/vintern år 2021.
 
-# Uppgiftsbeskrivningen för labb 1:
+# Uppgiftsbeskrivningen för lab 1:
 
 ## Laboration 1
 Denna laboration kommer att täcka grundläggande enhetstestning inklusive mockning.
